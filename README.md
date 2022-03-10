@@ -1,5 +1,6 @@
 # OnlineStoreForConstruction
-# How to install
+
+## How to install
 
 1. [Download](https://www.apachefriends.org/index.html) & Install XAMPP
 2. Create folder 'website' in xampp/htdocs
