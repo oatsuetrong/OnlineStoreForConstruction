@@ -21,6 +21,6 @@ Password: admin
 [Shop](http://localhost/website/OnlineStore/shop)\
 Username: shop1-owner\
 Password: shop1-owner\
--
+\
 Username: shop2-owner\
 Password: shop2-owner
