@@ -1,6 +1,6 @@
 # OnlineStoreForConstruction
 # How to install
-1. Install XAMPP
+1. Download & Install XAMPP https://www.apachefriends.org/index.html
 2. Create folder 'website' in xampp\htdocs
 3. Clone this project into 'website' folder
 4. Start Apache, MySQL on XAMPP Control Panel
