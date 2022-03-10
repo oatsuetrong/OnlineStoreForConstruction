@@ -4,7 +4,7 @@
 
 1. [Download](https://www.apachefriends.org/index.html) & Install XAMPP
 2. Download this repository & Extract into `xampp/htdocs` folder
-3. Rename folder `OnlineStoreForConstruction-main` to `website`
+3. Rename folder `OnlineStoreForConstruction-main` to `website`\
 &nbsp; In `website` folder, it should have Database, OnlineStore, and README.md
 4. Start Apache, MySQL on XAMPP Control Panel
 5. Go to [phpMyAdmin](http://localhost/phpmyadmin)
