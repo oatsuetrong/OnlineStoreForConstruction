@@ -3,8 +3,8 @@
 ## How to install
 
 1. [Download](https://www.apachefriends.org/index.html) & Install XAMPP
-2. Create folder 'website' in xampp/htdocs
-3. Download this repository and extract into 'website' folder
+2. Download this repository & Extract into 'xampp/htdocs' folder
+3. Rename folder 'OnlineStoreForConstruction-main' to 'website'
 4. Start Apache, MySQL on XAMPP Control Panel
 5. Go to localhost/phpmyadmin
 6. Create new database name 'osc'
