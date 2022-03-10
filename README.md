@@ -12,13 +12,13 @@
 8. Enjoy [OnlineStoreForConstruction](http://localhost/website/OnlineStore)
 
 ## For Admin user
-[Admin](http://localhost/website/OnlineStore/admin)
-Username: admin
-Password: admin
+[Admin](http://localhost/website/OnlineStore/admin)\
+Username: admin\
+Password: admin\
 
 ## For Shop user
-[Shop](http://localhost/website/OnlineStore/shop)
-Username: shop1-owner
-Password: shop1-owner
-Username: shop2-owner
-Password: shop2-owner
+[Shop](http://localhost/website/OnlineStore/shop)\
+Username: shop1-owner\
+Password: shop1-owner\
+Username: shop2-owner\
+Password: shop2-owner\
