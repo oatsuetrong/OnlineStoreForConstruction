@@ -9,7 +9,7 @@
 4. Start Apache, MySQL on XAMPP Control Panel
 5. Go to [phpMyAdmin](http://localhost/phpmyadmin)
 6. Create new database name `osc`
-7. Click import -> Select `osc.sql` -> Click Go
+7. Click import -> Select `osc.sql` in Database folder -> Click Go
 8. Enjoy [OnlineStoreForConstruction](http://localhost/website/OnlineStore)
 
 ## For Admin user
